@@ -45,4 +45,5 @@ O nome do arquivo é: pretrained_covid_model.pkl e deve ser copiado para a pasta
 Performance obtida:
 
 Acurácia: 88.2%
+
 Área sob a curva ROC: 96.1%
