@@ -41,3 +41,8 @@ Modelo pré-treinado:
 O modelo utilizado foi a DenseNet169 e está disponível em: https://drive.google.com/file/d/1zS8vZ-qu08oIqk6JNkZDjVvusYhE2GGj/view?usp=sharing
 
 O nome do arquivo é: pretrained_covid_model.pkl e deve ser copiado para a pasta "DenseNet Pytorch" localizada neste repositório.
+
+Performance obtida:
+
+Acurácia: 88.2%
+Área sob a curva ROC: 96.1%
