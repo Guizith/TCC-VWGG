@@ -42,6 +42,12 @@ O modelo utilizado foi a DenseNet169 e está disponível em: https://drive.googl
 
 O nome do arquivo é: pretrained_covid_model.pkl e deve ser copiado para a pasta "DenseNet Pytorch" localizada neste repositório.
 
+Visualização das predições:
+
+Para conseguir visualizar as predições feitas pela rede neural, é necessário realizar o download do arquivo modelo_original_pth.pth  e deve ser copiado para a pasta "DenseNet Pytorch" localizada neste repositório.
+
+O modelo utilizado está disponível em: https://drive.google.com/file/d/1PQZ2WmVSao1t0dQRdCQAybQl9fPjvNt7/view?usp=sharing
+
 Performance obtida:
 
 Acurácia: 88.2%
