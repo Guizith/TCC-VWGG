@@ -25,6 +25,7 @@ Lista de requisitos:
     OpenCV
     Numpy
     Scikit-Learn
+    VTK
 
 Ambiente:
 
